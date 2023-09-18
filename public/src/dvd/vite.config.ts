@@ -7,7 +7,7 @@ console.log(import.meta.url);
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: "/src/edms/dist",
+  base: "/src/dvd/dist",
   plugins: [
     vue(),
   ],
